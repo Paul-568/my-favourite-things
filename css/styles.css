@@ -1,15 +1,13 @@
-p{
-    color:blueviolet;
+title{
+    color: blue;
+    font-size: medium;
 }
 h1{
-    color: crimson;
-    font-size: medium;   
-}
-ol{
-    color:indigo;
-    font-size: 12px;
-    text-align: center;
+    color: red;
     font-style: italic;
+}
+p{
+    color: royalblue;
 }
 body{
     background-color: green;
